@@ -1,5 +1,5 @@
 // Log number
-console.log(100);
+console.log(1000);
 
 // Log string
 console.log('Hello World');
